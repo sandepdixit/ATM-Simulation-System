@@ -22,7 +22,7 @@ public class Account
 	}
 	
 	public void deposit(double amount) throws IOException {
-	   FileWriter fw=new FileWriter("C:\\Users\\dell\\IdeaProjects\\ATM simulation system\\src\\bank.txt");
+	 //  FileWriter fw=new FileWriter("C:\\Users\\dell\\IdeaProjects\\ATM simulation system\\src\\bank.txt");
 
       balance += amount;
 		//fw.write((int) balance);

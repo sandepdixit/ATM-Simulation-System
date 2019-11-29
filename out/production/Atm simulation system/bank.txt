@@ -1,0 +1,10 @@
+Account Information
+BANKID:123456789
+BANKPIN:1234
+Name:Sandeep.dixit
+Chequing account balance:1337
+
+BANKID:999999999
+BANKPIN:4321
+Name:vivek.kumar
+Chequing account balance:800
